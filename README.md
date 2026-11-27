@@ -15,7 +15,7 @@ Lecture AI is distributed in two editions so you can pick between full GPU-accel
 | **`Lecture-AI-1.2.0-BYOK-Setup-ia32.exe`** | **BYOK** | Windows 32-bit (`ia32` / `x86`) | 68.7 MB | Cloud Gemini Live & Groq Whisper APIs (via your own API key) | Legacy 32-bit Windows systems and lightweight netbooks |
 | **`Lecture-AI-1.2.0-BYOK-Setup-Universal.exe`** | **BYOK** | Universal (`x64` + `ia32`) | 143.6 MB | Cloud Gemini Live & Groq Whisper APIs (via your own API key) | Single installer that automatically installs the right binary on any Windows PC |
 
-> Download installers from the [**GitHub Releases**](https://github.com/Danimaru-ze/lecture-ai-release/releases/latest) page.
+> Download installers from the [**GitHub Releases**](https://github.com/Danimaru-ze/lectureai/releases/latest) page.
 
 ---
 
@@ -54,7 +54,7 @@ Lecture AI is distributed in two editions so you can pick between full GPU-accel
 
 ## Installation & Quick Start
 
-1. Download the `.exe` installer matching your system from [**Releases**](https://github.com/Danimaru-ze/lecture-ai-release/releases/latest).
+1. Download the `.exe` installer matching your system from [**Releases**](https://github.com/Danimaru-ze/lectureai/releases/latest).
 2. Run the setup executable and follow the installation wizard.
    - *(Optional)* Verify your download integrity against [SHA256SUMS.txt](./SHA256SUMS.txt).
 3. Launch **Lecture AI** and activate your **License Key** from [lectureai.web.id](https://lectureai.web.id/).
