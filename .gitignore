@@ -1,0 +1,8 @@
+*.exe
+*.blockmap
+*.msi
+*.zip
+releases/
+dist/
+.DS_Store
+Thumbs.db
